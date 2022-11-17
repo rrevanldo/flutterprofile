@@ -246,21 +246,21 @@ class AboutScreen extends StatelessWidget {
                         ),
                       ),
                       Text(
-                        "Whatsapp : +6285157408085",
+                        "Whatsapp : +62 1234567890",
                         style: TextStyle(
                           fontSize: 17,
                           color: Colors.white,
                           letterSpacing: .5,
                         ),
                       ),
-                      Text("Email : revanrionaldo08@gmail.com",
+                      Text("Email : revan@gmail.com",
                       style: TextStyle(
                           fontSize: 17,
                           color: Colors.white,
                           letterSpacing: .5,
                         ),
                       ),
-                      Text("Instagram : kzhamuran",
+                      Text("Instagram : abcddean",
                       style: TextStyle(
                           fontSize: 17,
                           color: Colors.white,
@@ -268,7 +268,7 @@ class AboutScreen extends StatelessWidget {
                         ),
                       ),
                       Text(
-                        "Address : Jln. Drs Saleh Danasasmita Bogor Selatan",
+                        "Address : This is address",
                         style: TextStyle(
                           fontSize: 17,
                           color: Colors.white,
